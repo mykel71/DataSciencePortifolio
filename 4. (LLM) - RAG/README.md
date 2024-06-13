@@ -20,8 +20,3 @@ The RAG integrates state-of-the-art retrieval and generation techniques to provi
 ## Installation
 
 ## Examples
-
-## Contact
-
-- [LinkedIn](https://www.linkedin.com/in/caiocmb/)
-- E-mail: caiobarrosufc@gmail.com
